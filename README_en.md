@@ -46,7 +46,7 @@ This book consists of 6 chapters.
 
 | File | Language | Content |
 |------|----------|---------|
-| [the_redesign_of_design_strategy_jp.md](./docs/ja/the_redesign_of_design_strategy_jp.md) | 🇯🇵 Japanese | Full text (Japanese) |
+| [the_redesign_of_design_strategy_jp.md](./docs/jp/the_redesign_of_design_strategy_jp.md) | 🇯🇵 Japanese | Full text (Japanese) |
 | [the_redesign_of_design_strategy_en.md](./docs/en/the_redesign_of_design_strategy_en.md) | 🇺🇸 English | Full text (English) |
 
 ---
