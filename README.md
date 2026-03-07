@@ -46,7 +46,7 @@
 
 | ファイル                                                                                     | 言語           | 内容       |
 | ---------------------------------------------------------------------------------------- | ------------ | -------- |
-| [the_redesign_of_design_strategy_jp.md](./docs/ja/the_redesign_of_design_strategy_jp.md) | 🇯🇵 日本語     | 本文（日本語版） |
+| [the_redesign_of_design_strategy_jp.md](./docs/jp/the_redesign_of_design_strategy_jp.md) | 🇯🇵 日本語     | 本文（日本語版） |
 | [the_redesign_of_design_strategy_en.md](./docs/en/the_redesign_of_design_strategy_en.md) | 🇺🇸 English | 本文（英語版）  |
 
 ---
