@@ -1,11 +1,12 @@
 # デザイン戦略の再定義 — 生成AI時代の本質論
-
 **The Redesign of Design Strategy — An Essential Theory for the Generative AI Era**
 
-著者: 山内怜史 / Satoshi Yamauchi
-Leading AI（合同会社Leading AI）
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Language](https://img.shields.io/badge/Language-English%20%7C%20Japanese-blue)](../../docs/)
 
-ライセンス: CC BY 4.0
+<p align="center">
+  <img src="../../assets/cover_design.png" width="80%"><br>
+</p>
 
 ---
 
@@ -62,7 +63,7 @@ Indeedを買収した日本を代表する株式会社リクルートで事業�
 表現形が違うだけで、根幹にある「眼」——本質を見抜き構造化する眼——は同じものだ。
 
 <p align="center">
-  <img src="./assets/diagram1-1.png" width="80%"><br>
+  <img src="../../assets/diagram1-1.png" width="80%"><br>
   <em>図1-1: 3つの表現形、1つの眼</em>
 </p>
 
@@ -178,7 +179,7 @@ PepsiCoでは、マウロ・ポルチーニが2012年に同社初のCDO（最高
 IDEOだけではない。ジョン・マエダのDesign in Tech Report（2017年）によれば、2004年以降、70以上のデザインファームが買収され、その約50%が2015〜2016年に集中した。2017年だけで、コンサルティング各社はデザインエージェンシーの買収に計12億ドルを投じている——前年比134%増。
 
 <p align="center">
-  <img src="./assets/diagram3-1.png" width="80%"><br>
+  <img src="../../assets/diagram3-1.png" width="80%"><br>
   <em>図3-1: デザインの価値 vs デザインファームの売上——逆説の構造</em>
 </p>
 
@@ -278,7 +279,7 @@ Figmaは2024年のConfigでMake Designs（テキストからUI）を発表し、
 **奪えなかったのは「眼」だ。**
 
 <p align="center">
-  <img src="./assets/diagram4-2.png" width="80%"><br>
+  <img src="../../assets/diagram4-2.png" width="80%"><br>
   <em>図4-2: 奪われたもの / 奪えなかったもの</em>
 </p>
 
@@ -357,7 +358,7 @@ AIシステムは、定義された入力に対するアルゴリズム処理と
 「デザイン思考」が経営アジェンダになったのは、メソッドが優れていたからではない。ビジネスの世界がこの認知モードの言語化を持っていなかったからだ。デザインの世界にはそれがあった。だから「デザイン思考」という名前が付いた。しかし本質的には、それは「デザインの」思考ではなく、「問題解決の頂点における」思考だった。
 
 <p align="center">
-  <img src="./assets/diagram5-1.png" width="70%"><br>
+  <img src="../../assets/diagram5-1.png" width="70%"><br>
   <em>図5-1: 二項対立の収束——表層では分かれ、頂点では1つになる</em>
 </p>
 
@@ -445,7 +446,7 @@ AIにリサーチの初期段階を任せる。100本の競合分析を読ませ
 これがDepth & Velocityだ。Depthとは「眼」の深さであり、Velocityとは「眼」を持つ者がAIで実行を加速すること。ただし、D&Vが答えの全てだと言うつもりはない。D&Vは実践の方法論であり、本書のコア・メッセージ——「本質を見抜き構造化する眼こそがAI時代に残る唯一の武器である」——が思想的な根幹だ。
 
 <p align="center">
-  <img src="./assets/diagram6-2.png" width="80%"><br>
+  <img src="../../assets/diagram6-2.png" width="80%"><br>
   <em>図6-2: Depth × Velocity——AI時代のデザイン戦略家の位置</em>
 </p>
 
