@@ -150,12 +150,12 @@ PepsiCoでは、マウロ・ポルチーニが2012年に同社初のCDO（最高
 
 ### 第2章 参考文献
 
-- ABC Nightline, "The Deep Dive," 1999年.
+- ABC Nightline, "The Deep Dive," 1999年. https://www.youtube.com/results?search_query=IDEO+deep+dive+ABC+nightline+1999
 - Tim Brown, "Design Thinking," *Harvard Business Review*, June 2008. https://hbr.org/2008/06/design-thinking
-- Tim Brown, *Change by Design*, HarperBusiness, 2009年.
-- Roger Martin, *The Design of Business: Why Design Thinking is the Next Competitive Advantage*, Harvard Business Press, 2009年.
+- Tim Brown, *Change by Design*, HarperBusiness, 2009年. https://www.harpercollins.com/products/change-by-design-revised-and-updated-tim-brown
+- Roger Martin, *The Design of Business: Why Design Thinking is the Next Competitive Advantage*, Harvard Business Press, 2009年. https://rogerlmartin.com/lets-read/the-design-of-business
 - Stanford d.school (Hasso Plattner Institute of Design). https://dschool.stanford.edu/
-- Forrester, "The Total Economic Impact of IBM's Design Thinking Practice," 2018年.
+- Forrester, "The Total Economic Impact of IBM's Design Thinking Practice," 2018年. https://www.ibm.com/design/thinking/static/media/Enterprise-Design-Thinking-Report.8ab1e9e1.pdf
 - McKinsey & Company, "The Business Value of Design," October 2018. https://www.mckinsey.com/capabilities/mckinsey-design/our-insights/the-business-value-of-design
 - Design Council, "Design Economy 2022." https://www.designcouncil.org.uk/our-research/design-economy/
 - DMI Design Value Index. https://www.dmi.org/page/DesignValue
@@ -229,7 +229,7 @@ IDEOだけではない。ジョン・マエダのDesign in Tech Report（2017年
 
 - George Aye, "Surviving IDEO," *Medium*, May 2021. https://medium.com/@georgeaye/surviving-ideo-8ac5ca5c46a8
 - John Maeda, "Design in Tech Report 2017." https://designintech.report/
-- Natasha Jen, "Design Thinking is Bullshit," 99U Conference, 2017年.
+- Natasha Jen, "Design Thinking is Bullshit," 99U Conference, 2017年. https://99u.adobe.com/videos/55967/natasha-jen-design-thinking-is-bullshit
 - Bruce Nussbaum, "Design Thinking Is A Failed Experiment. So What's Next?," *Fast Company*, 2011年. https://www.fastcompany.com/1663558/design-thinking-is-a-failed-experiment-so-whats-next
 - McKinsey Design. https://www.mckinsey.com/capabilities/mckinsey-design/how-we-help-clients
 - QuantumBlack (McKinsey). https://www.mckinsey.com/capabilities/quantumblack/how-we-help-clients
@@ -310,15 +310,15 @@ AIシステムは、定義された入力に対するアルゴリズム処理と
 - Midjourney. https://www.midjourney.com/
 - Figma AI / Figma Make / Figma Sites / Figma Buzz. https://www.figma.com/
 - McKinsey Global Institute, "The economic potential of generative AI," 2023年. https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier
-- BCG / Harvard Business School, "Navigating the Jagged Technological Frontier," 2023年.
-- HBR, "AI layoff analysis"（経営幹部1,006人対象）, 2026年1月.
-- Nigel Cross, "Designerly Ways of Knowing," *Design Studies*, Vol. 3, No. 4, 1982年.
-- Herbert Simon, *The Sciences of the Artificial*, MIT Press, 1969年.
-- Donald Schön, *The Reflective Practitioner: How Professionals Think in Action*, Basic Books, 1983年.
-- Kees Dorst, *Frame Innovation: Create New Thinking by Design*, MIT Press, 2015年.
-- Horst Rittel & Melvin Webber, "Dilemmas in a General Theory of Planning," *Policy Sciences*, Vol. 4, 1973年.
-- Yann LeCun, Meta Chief AI Scientist, public statements on AI limitations, 2025年.
-- Don Norman, public statements on AI and design, 2025年.
+- BCG / Harvard Business School, "Navigating the Jagged Technological Frontier," September 2023. https://www.hbs.edu/faculty/Pages/item.aspx?num=64700
+- HBR, "AI layoff analysis"（経営幹部1,006人対象）, 2026年1月. https://hbr.org/
+- Nigel Cross, "Designerly Ways of Knowing," *Design Studies*, Vol. 3, No. 4, 1982年. https://doi.org/10.1016/0142-694X(82)90040-0
+- Herbert Simon, *The Sciences of the Artificial*, MIT Press, 1969年. https://mitpress.mit.edu/9780262691918/the-sciences-of-the-artificial/
+- Donald Schön, *The Reflective Practitioner: How Professionals Think in Action*, Basic Books, 1983年. https://www.hachettebookgroup.com/titles/donald-a-schon/the-reflective-practitioner/9780465068784/
+- Kees Dorst, *Frame Innovation: Create New Thinking by Design*, MIT Press, 2015年. https://mitpress.mit.edu/9780262324311/frame-innovation/
+- Horst Rittel & Melvin Webber, "Dilemmas in a General Theory of Planning," *Policy Sciences*, Vol. 4, 1973年. https://doi.org/10.1007/BF01405730
+- Yann LeCun, Meta Chief AI Scientist, public statements on AI limitations, 2025年. https://x.com/ylecun
+- Don Norman, public statements on AI and design, 2025年. https://jnd.org/
 - Nielsen Norman Group, "How UX Professionals Use AI," 2025年. https://www.nngroup.com/
 - Autodesk, "AI Jobs Report 2025." https://www.autodesk.com/
 
@@ -393,8 +393,8 @@ AIシステムは、定義された入力に対するアルゴリズム処理と
 
 ### 第5章 参考文献
 
-- Nigel Cross, "Designerly Ways of Knowing," *Design Studies*, Vol. 3, No. 4, 1982年.
-- Roger Martin, *The Design of Business: Why Design Thinking is the Next Competitive Advantage*, Harvard Business Press, 2009年.
+- Nigel Cross, "Designerly Ways of Knowing," *Design Studies*, Vol. 3, No. 4, 1982年. https://doi.org/10.1016/0142-694X(82)90040-0
+- Roger Martin, *The Design of Business: Why Design Thinking is the Next Competitive Advantage*, Harvard Business Press, 2009年. https://rogerlmartin.com/lets-read/the-design-of-business
 - 山内怜史, "What They Won't Teach You — AIに有利な世代が教えない、AIの使い方と思考のOS." https://github.com/Leading-AI-IO/what-they-wont-teach-you
 - 山内怜史, "The Edge of Intelligence — AIがあなたのデバイスで動く時代." https://github.com/Leading-AI-IO/edge-ai-intelligence
 
@@ -467,12 +467,12 @@ AI時代において、テクノロジーの実装力はAIによって加速さ�
 - Jakob Nielsen, "No More User Interface?," 2025年. https://www.nngroup.com/
 - Nielsen Norman Group, "The Future-Proof Designer," June 2025. https://www.nngroup.com/
 - Autodesk, "AI Jobs Report 2025." https://www.autodesk.com/
-- IEEE, "AI-Augmented Design Thinking," peer-reviewed paper, 2024年.
-- State of AI in Design Report 2025.
+- IEEE, "AI-Augmented Design Thinking," peer-reviewed paper, 2024年. https://ieeexplore.ieee.org/
+- State of AI in Design Report 2025. https://stateofaiindesign.com/
 - John Maeda, "Design in Tech Report 2025" (11th edition), SXSW 2025. https://designintech.report/
-- Kees Dorst, *Frame Innovation: Create New Thinking by Design*, MIT Press, 2015年.
+- Kees Dorst, *Frame Innovation: Create New Thinking by Design*, MIT Press, 2015年. https://mitpress.mit.edu/9780262324311/frame-innovation/
 - 山内怜史, "Depth & Velocity — A Practical Methodology for New Business Development in the Generative AI Era." https://github.com/Leading-AI-IO/depth-and-velocity
-- 田川欣哉『イノベーション・スキルセット — 世界が求めるBTC型人材とその手引き』大和書房, 2019年.
+- 田川欣哉『イノベーション・スキルセット — 世界が求めるBTC型人材とその手引き』大和書房, 2019年. https://amzn.asia/d/08FBpFKC
 
 ---
 
