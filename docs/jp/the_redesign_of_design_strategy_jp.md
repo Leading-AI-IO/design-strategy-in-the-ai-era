@@ -98,6 +98,8 @@ Indeedを買収した日本を代表する株式会社リクルートで事業�
 - アイリーニ・マネジメント・スクール（旧アイリーニユニバーシティー）. https://ems.eireneuniversity.org/
 - 田川欣哉『イノベーション・スキルセット — 世界が求めるBTC型人材とその手引き』大和書房, 2019年. https://amzn.asia/d/08FBpFKC
 
+<br>
+
 ---
 
 # 第2章: デザインがビジネスを変えた時代
@@ -158,6 +160,8 @@ PepsiCoでは、マウロ・ポルチーニが2012年に同社初のCDO（最高
 - Design Council, "Design Economy 2022." https://www.designcouncil.org.uk/our-research/design-economy/
 - DMI Design Value Index. https://www.dmi.org/page/DesignValue
 - 経済産業省・特許庁,「『デザイン経営』宣言」, 2018年5月23日. https://www.meti.go.jp/press/2018/05/20180523002/20180523002.html
+
+<br>
 
 ---
 
@@ -236,6 +240,8 @@ IDEOだけではない。ジョン・マエダのDesign in Tech Report（2017年
 - Takram. https://www.takram.com/
 - Goodpatch. https://goodpatch.com/
 - Goodpatch, Layermate子会社化プレスリリース, 2025年10月. https://goodpatch.com/news
+
+<br>
 
 ---
 
@@ -320,6 +326,8 @@ AIシステムは、定義された入力に対するアルゴリズム処理と
 - Nielsen Norman Group, "How UX Professionals Use AI," 2025年. https://www.nngroup.com/
 - Autodesk, "AI Jobs Report 2025." https://www.autodesk.com/
 
+<br>
+
 ---
 
 # 第5章: 二項対立の崩壊——デザインとビジネスが1つになる地点
@@ -396,6 +404,8 @@ AIシステムは、定義された入力に対するアルゴリズム処理と
 - 山内怜史, "What They Won't Teach You — AIに有利な世代が教えない、AIの使い方と思考のOS." https://github.com/Leading-AI-IO/what-they-wont-teach-you
 - 山内怜史, "The Edge of Intelligence — AIがあなたのデバイスで動く時代." https://github.com/Leading-AI-IO/edge-ai-intelligence
 
+<br>
+
 ---
 
 # 第6章: AI時代のデザイン戦略家
@@ -471,6 +481,8 @@ AI時代において、テクノロジーの実装力はAIによって加速さ�
 - Kees Dorst, *Frame Innovation: Create New Thinking by Design*, MIT Press, 2015年. https://mitpress.mit.edu/9780262324311/frame-innovation/
 - 山内怜史, "Depth & Velocity — A Practical Methodology for New Business Development in the Generative AI Era." https://github.com/Leading-AI-IO/depth-and-velocity
 - 田川欣哉『イノベーション・スキルセット — 世界が求めるBTC型人材とその手引き』大和書房, 2019年. https://amzn.asia/d/08FBpFKC
+
+<br>
 
 ---
 
