@@ -1,5 +1,4 @@
 # The Redesign of Design Strategy — An Essential Theory for the Generative AI Era
-**デザイン戦略の再定義 — 生成AI時代の本質論**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-English%20%7C%20Japanese-blue)](../../docs/)
