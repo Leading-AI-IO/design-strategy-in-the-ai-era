@@ -63,6 +63,7 @@
 | **The Silence of Intelligence** | Anthropic CEO ダリオ・アモディの思想を体系化。産業構造の解剖シリーズ第2弾               | [GitHub](https://github.com/Leading-AI-IO/the-silence-of-intelligence) |
 | **What They Won't Teach You**   | AIに有利な世代が教えない、AIの使い方と"思考のOS"。「二項対立の崩壊」メタテーマの姉妹書            | [GitHub](https://github.com/Leading-AI-IO/what-they-wont-teach-you)    |
 | **The Edge of Intelligence**    | AIがあなたのデバイスで動く時代：クラウドの終わりと、エッジの始まり                         | [GitHub](https://github.com/Leading-AI-IO/edge-ai-intelligence)        |
+| **Advertising, Redesigned** | AIが広告を「割り込み」から「優しい提案」に変える。検索の終焉、広告が初めて「歓迎される存在」になる未来。 | [GitHub](https://github.com/Leading-AI-IO/advertising-redesigned) |
 
 ---
 
