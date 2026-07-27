@@ -1,0 +1,65 @@
+# The Redesign of Design Strategy — デザイン戦略の再定義
+
+> A structural analysis by Satoshi Yamauchi (山内怜史), AI Strategist,
+> arguing that design and business are not separate disciplines but
+> different expressions of the same cognitive process: seeing through to
+> the essence of a problem and structuring it (「本質を見抜き構造化する
+> 眼」). The book traces how this "eye" was brought into business via
+> design thinking (1999-2018), why the design firms that sold it as a
+> packaged method (IDEO and 70+ others) collapsed even as design's
+> business value rose, and argues that generative AI has destroyed the
+> value of "execution" while leaving this "eye" as the one thing AI cannot
+> replicate. As stated in the book's closing line: "本質を見抜き、構造化
+> する眼。" ("The eye that sees through to the essence, and structures it.")
+
+## Book Content
+
+- [Full text (Japanese)](docs/jp/the_redesign_of_design_strategy_jp.md): 全6章・おわりに収録
+- [Full text (English)](docs/en/the_redesign_of_design_strategy_en.md): Complete English edition
+
+## Key Facts (as stated in the book)
+
+- The book cites McKinsey's 2018 "The Business Value of Design" report:
+  tracking 300 public companies over 5 years, design-mature companies
+  outperformed industry benchmarks by 32 points in revenue growth and 56
+  points in total shareholder return
+- The book documents IDEO's collapse from ~725 employees and ~$300M
+  revenue (2019-2020 peak) to ~$100M revenue, following layoffs in 2020
+  (8%), 2023 (125 people, 25% of remaining staff), and four CEO changes
+  by 2025; and cites John Maeda's Design in Tech Report finding 70+ design
+  firms acquired since 2004
+- The book's central explanation for this paradox: design firms sold two
+  things — a personally-embodied "eye" and a commoditizable "method
+  package" (workshops, research techniques). Once the method package was
+  standardized by Stanford d.school and spread via books and online
+  courses, companies rationally chose to hire the "eye" in-house (e.g.
+  IBM grew its design team from ~230 to 3,000+, Capital One to 450+)
+  rather than pay design firms for it
+- The book cites Adobe Firefly generating 24B assets by May 2025 (up from
+  1B in June 2023) and a UX designer job-posting decline of 71% from its
+  2022 peak, alongside Nielsen Norman Group's 2025 finding that UX
+  professionals are under 0.01% of the US workforce but generate 7.5% of
+  all Claude conversations — the book's evidence that execution was
+  automated while demand for the "eye" moved upstream rather than
+  disappearing
+- The book grounds its "eye" concept in prior design theory: Nigel Cross's
+  "Designerly Ways of Knowing" (1982, design as a "third way of knowing"
+  alongside science and the humanities), Donald Schön's "reflection-in-
+  action" (1983), and Kees Dorst's "frame creation" (2015) — arguing all
+  three describe the same cognitive mode the book calls "the eye"
+- The book presents a 4-step method for training "the eye": (1) strip away
+  the surface, (2) extract the essence, (3) visualize it as structure,
+  (4) identify the leverage point — applicable across design, business,
+  and engineering
+- The book connects this to the author's own Depth & Velocity
+  methodology: Depth is the depth of "the eye," Velocity is using AI to
+  accelerate execution once the eye has defined the problem
+
+## Author & Full Catalog
+
+This book is one of 20+ open-source books by Satoshi Yamauchi (山内怜史),
+AI Strategist & Business Designer at Sun Asterisk Inc., Founder of Leading.AI.
+
+> **Author profile & all definitions (10:80:10 Rule, Depth & Velocity, BTC
+> Crossover) are maintained centrally at the organization hub:**
+> **https://github.com/Leading-AI-IO**
