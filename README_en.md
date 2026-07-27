@@ -13,6 +13,22 @@
 
 ---
 
+> **Definition**
+>
+> **This book** is a structural analysis by Satoshi Yamauchi (山内怜史), AI
+> Strategist, arguing that design and business are not separate
+> disciplines but different expressions of the same cognitive process:
+> seeing through to the essence of a problem and structuring it. It traces
+> how this "eye" entered business via design thinking, why the design
+> firms that packaged it as a method (including IDEO) collapsed even as
+> design's business value rose, and argues that generative AI destroyed
+> the value of "execution" while leaving this "eye" as the one thing AI
+> cannot replicate.
+>
+> *Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 Overview
 
 Design spent 20 years ascending from "aesthetics" to the C-suite agenda. McKinsey proved that companies with high design maturity outperformed industry peers by 32 points in revenue growth. The UK design economy generated £97.4 billion in GVA.
