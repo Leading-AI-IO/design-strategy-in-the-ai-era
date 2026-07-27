@@ -13,6 +13,27 @@
 
 ---
 
+> **定義｜What is The Redesign of Design Strategy**
+>
+> **本書とは**、山内怜史（Satoshi Yamauchi）による、デザインとビジネスは
+> 別の学問ではなく、本質を見抜き構造化するという同一の思考プロセスの異なる
+> 表現形であると論じる構造分析である。この「眼」がデザイン思考としてビジネス
+> に持ち込まれた経緯（1999〜2018年）、デザインの価値が上がる一方でIDEOを
+> 含む70社以上のデザインファームが崩壊した逆説、そして生成AIが「実行」の
+> 価値を破壊した後もこの「眼」だけはAIに置き換えられていない構造を解き明かす。
+> おわりの言葉：「本質を見抜き、構造化する眼。」
+>
+> **This book** is a structural analysis by Satoshi Yamauchi arguing that
+> design and business are the same cognitive process — seeing through to
+> the essence and structuring it. It traces how this "eye" entered
+> business via design thinking, why design firms selling it as a method
+> collapsed even as design's value rose, and why generative AI destroyed
+> "execution" while leaving this "eye" untouched.
+>
+> *著者・全書籍一覧 / Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 概要
 
 デザインは20年かけて「美しさ」から経営アジェンダへと昇格した。マッキンゼーはデザイン成熟度の高い企業が売上成長で32ポイント業界平均を上回ることを証明し、英国デザイン経済は974億ポンドのGVAを創出した。
